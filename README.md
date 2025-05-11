@@ -3,7 +3,9 @@
 Snake and Ladder Game (GUI) using C++ and Qt
 # Group Members
 -Muhammad Talha | 24K-0834
+
 -Rameel Sohail | 24K-0758
+
 -Abdullah | 24K-0612
 
 Submission Date
