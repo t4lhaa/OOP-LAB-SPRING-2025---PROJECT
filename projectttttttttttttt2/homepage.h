@@ -16,7 +16,7 @@ public:
     QPushButton *getNextButton() const;
     QPushButton *getExitButton() const;
     QLabel *getPlayerCountLabel() const;
-    int getSelectedPlayerCount() const;  // <-- NEW getter for selected count
+    int getSelectedPlayerCount() const;
 
 private:
     QLabel *logoLabel;
@@ -24,7 +24,7 @@ private:
     QPushButton *exitButton;
     QLabel *playerCountLabel;
 
-    int selectedPlayerCount;  // default
+    int selectedPlayerCount; 
 
     ClickableLabel* twoPlayersLabel;
     ClickableLabel* threePlayersLabel;
