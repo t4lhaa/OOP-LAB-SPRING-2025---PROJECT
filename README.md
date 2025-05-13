@@ -1,6 +1,6 @@
 # Project Report
 # Project Title
-Snake and Ladder Game (GUI) using C++ and Qt
+## Snake and Ladder Game (GUI) using C++ and Qt
 # Group Members
 -Muhammad Talha | 24K-0834
 
