@@ -3,7 +3,9 @@
 ## Snake and Ladder Game (GUI) using C++ and Qt
 # Group Members
 -Muhammad Talha | 24K-0834
+
 -Rameel Sohail | 24K-0758
+
 -Abdullah | 24K-0612
 
 Submission Date
@@ -11,10 +13,13 @@ Submission Date
 ________________________________________
 ### 1. Executive Summary
 • Overview:
+
 This project aims to develop a GUI-based version of the classic Snake and Ladder board game using C++ and Qt. The game applies OOP concepts to build interactive and modular game components.
 
 • Key Findings:
+
 So , the architecture of the game has been established. The GUI board is functional, and the dice changing mechanism and basic movement logic have been successfully implemented. Initial playtesting has confirmed the interface responsiveness and game logic accuracy.
+
 ________________________________________
 ### 2. Introduction
 • Background:
