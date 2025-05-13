@@ -1,9 +1,9 @@
 ### Details:
 ## The Project "Snakes&Ladders" is made on Qt version 16.0.1.
-Here is the drive link for its Zip file:
+Here is the drive link for its Zip file: https://drive.google.com/drive/folders/1Y8vxEVSu7GE_EwX1bEua2R2LTbmdDmc-?usp=sharing
 
-
-# <center> REPORT </center> 
+________________________________________
+# REPORT
 
 # Project Title
 ## Snake and Ladder Game (GUI) using C++ and Qt
